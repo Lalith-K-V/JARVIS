@@ -1,0 +1,19 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Secrets and credentials
+.env
+credentials.json
+
+# Audio files
+*.mp3
+*.wav
+
+# Logs or runtime files
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
